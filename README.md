@@ -1,1 +1,1 @@
-# Post-on-how-to-write-Flux-Stores-with-TDD
+https://medium.com/p/718ad83a7d91
