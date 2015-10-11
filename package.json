@@ -1,0 +1,28 @@
+{
+  "name": "flux-store-tdd",
+  "version": "1.0.0",
+  "description": "Flux Store TDD",
+  "scripts": {
+    "test": "mocha -R spec"
+  },
+  "keywords": [
+    "flux",
+    "store",
+    "tdd",
+    "example",
+    "tutorial"
+  ],
+  "author": "Mike San Román",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^3.3.0",
+    "mocha": "^2.3.3",
+    "mockery": "^1.4.0",
+    "object-assign": "^4.0.1",
+    "sinon": "^1.17.1"
+  },
+  "dependencies": {
+    "flux": "^2.1.1",
+    "keymirror": "^0.1.1"
+  }
+}
